@@ -1,2 +1,2 @@
 # aws-boostrap
-To bootstrap the aws with codestart and cloud formation
+To bootstrap the aws with codestar and cloud formation
